@@ -16,5 +16,5 @@ The inpput
 Return the input
 }
 \examples{
-call_do_nothing("a")
+call_do_nothing(mtcars)
 }

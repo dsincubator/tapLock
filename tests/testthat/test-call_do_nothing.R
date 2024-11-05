@@ -1,3 +1,3 @@
 test_that("works with a character", {
-  expect_equal(call_do_nothing("a"), "a")
+  expect_equal(call_do_nothing(mtcars), mtcars)
 })

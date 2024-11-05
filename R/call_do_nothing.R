@@ -6,7 +6,7 @@
 #' @export
 #'
 #' @examples
-#' call_do_nothing("a")
+#' call_do_nothing(mtcars)
 call_do_nothing <- function(data) {
   tower::do_nothing(data)
 }
