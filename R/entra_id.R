@@ -87,7 +87,6 @@ request_token.entra_id_config <- function(config, authorization_code) {
       )
     }
   )
-
 }
 
 #' @keywords internal
